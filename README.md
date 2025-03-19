@@ -9,6 +9,10 @@ the goal to provide the same UI style scheme for everything basically, that's th
 in mind.
 
 
+The another goal here is to make developers and creators easy to use with reusable templates for 
+many different platforms and variants.
+
+
 
 
 
@@ -18,4 +22,3 @@ In this section, we are going to be talking about the list of variants for senal
 
 
 - CSS
-- 
