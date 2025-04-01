@@ -1,4 +1,6 @@
-# senalui
+<center>
+<img src="./senalUI.png">
+</center>
 
 
 Senal UI is a UI library that is designed for the ecosystem of FOIL, Smith-Pad, and Electric-E.
