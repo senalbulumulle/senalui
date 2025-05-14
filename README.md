@@ -4,6 +4,7 @@
 
 
 Senal UI is a UI library that is designed for the ecosystem of FOIL, Smith-Pad, and Electric-E.
+as well as for you too.
 
 
 Originally before it is called FOIL-UI that is only for CSS, but now, it is called senalUI with 
