@@ -17,11 +17,17 @@ many different platforms and variants.
 
 
 
+## Benefits?
+
+- You can use many other languages (listed here) that can be used for wrapping senalUI
+
+- C 
+- CPP
+- Go
+- Python
 
 
-## List of variants
-
-In this section, we are going to be talking about the list of variants for senalUI
-
+- You can also use other libraries and frameworks as variants for senalUI (listed here)
 
 - CSS
+- SDL
