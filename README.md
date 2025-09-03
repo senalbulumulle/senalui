@@ -25,9 +25,5 @@ many different platforms and variants.
 - CPP
 - Go
 - Python
-
-
-- You can also use other libraries and frameworks as variants for senalUI (listed here)
-
 - CSS
 - SDL
