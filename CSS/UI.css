@@ -20,7 +20,7 @@
         user-select: none;
 }
 
-.senal-ui-banner-layout-qa20-td{}
+.senal-ui-banner-layout-qa20-td {}
 
 
 /**************************************************************************************************
@@ -37,7 +37,10 @@
         overflow: auto;
 }
 
-.foil-home-window-blinds-effect-home-screen-secondary-screen {
+
+.foil-home-home-screen-main-screen {}
+
+.foil-home-home-screen-secondary-screen {
         background-color: transparent;
         color: black;
         padding: 88px 1px;
