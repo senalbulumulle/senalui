@@ -28,43 +28,7 @@
  ***************************************************************************************************/
 
 
-.foil-home-global-setting-vertical-one {
-        zoom: 200%
-}
 
-.foil-home-window-blinds-effect {
-        resize: vertical;
-        overflow: auto;
-}
-
-
-.foil-home-home-screen-main-screen {}
-
-.foil-home-home-screen-secondary-screen {
-        background-color: transparent;
-        color: black;
-        padding: 88px 1px;
-        border-radius: 0px;
-        overflow: none;
-        animation-name: home_screen_main_secondary_screen_animation;
-        animation-duration: 1s;
-}
-
-.foil-home-layout-q1 {}
-
-.foil-home-layout-q1-background {}
-
-.foil-home-layout-q1-content {}
-
-.foil-home-layout-q1-content h1 {}
-
-.foil-home-layout-q1-content p {}
-
-.foil-home-layout-q1-content b {}
-
-.foil-home-global-button {}
-
-.foil-home-global-button:hover {}
 
 
 
