@@ -27,22 +27,31 @@
  *                                      FOIL-Home-UI Stack
  ***************************************************************************************************/
 
-.foil-home-layout-q0 {}
+ .foil-home-layout-q0 {
+        padding: 100px 1px;
+        border-radius: 20px;
+        animation-name: home_screen_main_screen_animation;
+        animation-duration: 1s;
+        zoom: 8em;
+}
 
-.foil-home-layout-q0-background {}
+.foil-home-layout-q0-background {/* blank */}
+.foil-home-layout-q0-text-color {/* blank */}
+.foil-home-layout-q0-font-style {/* blank */}
 
-.foil-home-layout-q0-text-color {}
-
-.foil-home-layout-q0-font-style {}
-
-.foil-home-layout-q0-font-align-left {}
-
-.foil-home-layout-q0-font-align-right {}
-
-.foil-home-layout-q0-font-align-center {}
-
-.foil-home-layout-q0-window-blinds-effect {}
-
+.foil-home-layout-q0-font-align-left {
+        text-align: left;
+}
+.foil-home-layout-q0-font-align-right {
+        text-align: right;
+}
+.foil-home-layout-q0-font-align-center {
+        text-align: center;
+}
+.foil-home-layout-q0-window-blinds-effect {
+        resize: vertical;
+        overflow: auto;
+}
 
 
 
