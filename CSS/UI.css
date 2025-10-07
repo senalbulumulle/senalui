@@ -20,4 +20,6 @@
         user-select: none;
 }
 
-.senal-ui-banner-layout-qa20-td {}
+
+.bg-color-red-classic-qa20 {background-color: red;}
+.txt-color-red-classic-qa20 {color: white;}
