@@ -13,13 +13,3 @@
  *
  */
 
-.global-disable-select {
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        -ms-user-select: none;
-        user-select: none;
-}
-
-
-.bg-color-red-classic-qa20 {background-color: red;}
-.txt-color-red-classic-qa20 {color: white;}
