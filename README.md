@@ -12,6 +12,12 @@ many different platforms and variants.
 
 
 
+Senal UI in a sense is designed in mind for embedded devices. With the freedom 
+of customizability and use-cases of user interface design. Making embedded devices 
+displays more creativity with your creativity.
+
+
+
 ## Benefits?
 
 - You can use many other languages (listed here) that can be used for wrapping senalUI
