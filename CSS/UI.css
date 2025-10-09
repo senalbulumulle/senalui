@@ -13,3 +13,48 @@
  *
  */
 
+body {
+        margin: 0px 0px;
+        height: 100%;
+        background-color: #2d2c28;
+        font-family: sans-serif;
+}
+
+/* hello world */
+
+.bg-color-red-classic-qa20 {
+        background-color: red;
+}
+
+.bg-color-black-classic-qa20 {
+        background-color: black;
+}
+
+.txt-color-red-classic-qa20 {
+        color: white;
+}
+
+.radius-20-mode {
+        border-radius: 20px;
+}
+
+.padding-16-mode {
+        padding: 16px;
+}
+
+/* fart elements */
+.senal-ui-banner-layout-qa20-td {
+        font-weight: bold;
+        padding: 4px;
+        color: black;
+}
+
+.senal-ui-button {
+        background-color: white;
+        font-size: 20px;
+        border-style: none;
+}
+
+.senal-ui-button:hover {
+        background-color: orange;
+}
